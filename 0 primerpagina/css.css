@@ -1,0 +1,46 @@
+#h1bib{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#entrada{
+    font-size: 24px;
+    color: rgb(80, 80, 252);
+}
+
+table{
+    display: flex;
+    justify-content: center;
+}
+
+#historia, #salud{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 1px -0px;
+    border-radius: 100px;
+    border: 4px solid black;
+}
+
+#historia{
+    background-image: url(./img/pantheom.jpg);
+}
+#salud{
+     background-image: url(img/corazon.jpg);
+}
+
+th{
+    padding:  100px 200px;
+    color: aliceblue;
+    
+}
+body{
+    margin: 60px;
+    position: relative;
+}
+
+#creador{
+    position: fixed;
+    right: 50px;
+    bottom: 10px;
+
+}
