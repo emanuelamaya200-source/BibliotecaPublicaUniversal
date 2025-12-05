@@ -1,0 +1,10 @@
+Leandro Amaya es el encargado de este proyecto independiente
+
+Guias para los que quieran participar
+
+-	Se tiene que ser descriptivo y con la minima longitud posible los nombres de los archivos
+
+-	Siempre colocar la bibliografía
+
+-	Para debates en en un tema se crea un archivo nuevo de la nombredeladiscucion.txt
+	ej 	discusiónSobreSintaxysLengua.txt
