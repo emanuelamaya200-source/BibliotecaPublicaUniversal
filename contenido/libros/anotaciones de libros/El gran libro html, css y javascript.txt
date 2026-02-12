@@ -1,0 +1,66 @@
+HTML permite compartir información entre las computadoras, html surgió para solucionar los problemas de fuentes de texto y imágenes , y modificación de texto. 
+Luego llegaron java y flash que permitieron más integración.
+Pero con javascript se modificó y permitió que sea responsable tanto en apps como en la información que estaba en la pagina
+
+HTML5 unificó HTML, CSS y JavaScript al actuar como un estándar centralizado que integra la estructura, estilo y comportamiento avanzado en una sola plataforma, eliminando la dependencia de plugins externos (como Flash). Permite a las tres tecnologías trabajar cohesivamente para crear sitios web rápidos, interactivos y adaptables (responsive). 
+Estructura y Semántica (HTML): Define la estructura con nuevas etiquetas (ej. <article>, <nav>) y soporta funciones multimedia nativas como <video> y <audio>.
+Presentación y Estilo (CSS): HTML5 interactúa estrechamente con CSS3 para mejorar el diseño y la estética, permitiendo animaciones y layouts complejos sin necesidad de herramientas externas.
+Comportamiento y Funcionalidad (JavaScript): Integra APIS de JavaScript avanzadas que añaden interactividad compleja, almacenamiento local, dibujos 3D y mapas, todo nativamente en el navegador.
+
+Las páginas suelen guardarse en el cache, si no se descargar archivos y se procesan
+
+Index como inicio pero también pueden ser home o default
+
+Un dominio se corresponde de:
+Protocolo, dominio, recurso(página)
+Http:// www.ejemplo.com / index.html
+
+Además de un dominio se puede crear subdominios a partir de este por ejemplo
+www.ejemplo.com
+www.subdominio.ejemplo.com
+
+Http y HTTPS , la s es por encriptación( es más seguro)
+
+Url absolutas y url relativas
+Las absolutas tienen toda la direcció.
+La relativa solo tiene la dirección partiendo de la ubicación actual de la pagina
+
+HTML lenguaje de marcado de hipertexto
+Las etiquetas individuales y de apertura pueden tener atributos que ofrecen información extra del elemento HTML
+
+< HTML lang="es"> <\>
+   Elemento - Atributo - cierre
+
+Los elementos estructurales como HTML ,head y body tienen que ponerse en ese orden, el resto de elementos son flexibles 
+
+Los atributos tienen valores eu
+Lang="es" 
+Atributo - valor
+
+Los atributos siempre se declara en la apertura del elemento
+
+CSS
+
+Estilo hojas de cascada
+Da a los elementos HTML una apariencia diferente.
+
+Color: $FF0000
+Consta con atributos y valores
+Y se señala la dirección con {}
+
+Se pueden Agrupar atributos con {}
+Body{
+Width:100%;
+Martin: 0px;
+Back-ground-color-#FF0000
+}
+
+Un grupo de dice lista y lo que señala el elemento a modificar se llama selector
+
+Javascript
+
+Está en los navegadores hoy en día, es tan potente como los lenguajes profesionales (java, phyton , c++, etc)
+Y funciona en colaboración de  html y vas
+Dentro de HTML se puede usar script para usar java, también se puede cargar js externo con ese elemento .
+
+Tanto HTML , css y javascript son lenguajes del lado del usuario a diferencia de ellos de servidor (PHP,Ruby,etc)
